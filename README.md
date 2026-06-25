@@ -1,2 +1,1 @@
-# bcarlson22.github.io
-My website.
+# My website.
