@@ -1,6 +1,7 @@
-My name is Brett Carlson. I am studying Cybersecurity.
+My name is Brett Carlson. I have a Masters of Science in Cybersecurity.
 
-I have interests in Computer Science and Cybsersecurity, Science Fiction, 
+
+I spend my time doing thing related to Computer Science and Cybsersecurity, Science Fiction, 
 
 amateur radio, writing, reading, card games, and board games.
 
