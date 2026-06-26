@@ -1,6 +1,3 @@
-My name is Brett Carlson. I have a Masters of Science in Cybersecurity.
-
-
 I enjoy computer science and cybsersecurity, science fiction, amateur radio, writing, reading, card games, and board games.
 
 
