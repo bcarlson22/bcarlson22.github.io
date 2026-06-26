@@ -2,9 +2,7 @@ Welcome to my website. Here you will find content about my technical projects, w
 
 [About Me](about.md)
 
-[Résume]
-
-[Blog]
+[Blog](blog_home.md)
 
 [Projects](/projects/project_list.md)
 
