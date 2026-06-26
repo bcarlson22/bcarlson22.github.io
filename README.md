@@ -8,4 +8,6 @@ Welcome to my website. Here you will find content about my technical projects, w
 
 [Projects]
 
+[Contact Me/My Web Presence]
+
 
