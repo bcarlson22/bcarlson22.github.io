@@ -6,8 +6,8 @@ Welcome to my website. Here you will find content about my technical projects, w
 
 [Blog]
 
-[Projects]
+[Projects](/projects/project_list.md)
 
-[Contact Me/My Web Presence]
+[Contact Me/My Web Presence](contact.md)
 
 
