@@ -2,9 +2,12 @@
 
 Welcome to my website.
 
-[About Me]
+[About Me](about.md)
+
 [Resume]
+
 [Blog]
+
 [Projects]
 
 
